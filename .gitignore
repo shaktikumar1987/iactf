@@ -1,4 +1,4 @@
-# Local .terraform directories
+ Local .terraform directories
 **/.terraform/*
 
 # .tfstate files
@@ -32,6 +32,3 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
-
-#ignore .terraform##
-.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.91.0/linux_amd64/terraform-provider-azurerm_v3.91.0_x5
